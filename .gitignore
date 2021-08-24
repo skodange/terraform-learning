@@ -3,4 +3,3 @@
 */terraform.tfstate.backup
 */.terraform
 */mykey*
-terraform.tfvars
